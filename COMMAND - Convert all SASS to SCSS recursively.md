@@ -1,3 +1,10 @@
+---
+tags:
+  - SCSS
+  - SASS
+  - convert
+---
+
 # Convert all SASS to SCSS recursively
 
 1. Open terminal inside project

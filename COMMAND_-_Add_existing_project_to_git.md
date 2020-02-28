@@ -1,3 +1,10 @@
+---
+tags:
+  - git
+  - github
+  - add local
+---
+
 # Add existing project to git
 
 1. Create a new repository on github
